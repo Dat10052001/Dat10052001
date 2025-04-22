@@ -1,9 +1,20 @@
-# Hello, I'm Huỳnh Tấn Đạt 👋
+# Hi, I'm Huỳnh Tấn Đạt 👋
 
-- 🎓 Final-year student at HCMUT (soon-to-be graduate! 🎓)
-- 💡 Passionate about IoT, Automation, and AI
-- 🤖 Currently working on Python + AutoCAD integration projects
-- 🌱 Always learning and building new things
-- 📫 You can reach me at: dat.huynh1005@hcmut.edu.vn
+- 🎓 **Final-year student** at HCMUT (K19)
+- 💡 **Passionate about IoT, Automation, and AI**
+- 🔧 **Skills**: Python, IoT systems, Web, Game
+- 🌱 **Learning**: Real-time systems, Machine learning, and embedded programming
+- 📫 **Contact**: dat.huynh1005@hcmut.edu.vn
 
-Feel free to explore my repositories, and let's collaborate on interesting projects! 🚀
+## Projects
+
+- **[IoT Home Automation](https://github.com/Dat10052001/CivilManage)** - A smart home system using sensors and real-time data processing.
+- **[IoT Farm Automation](https://github.com/Dat10052001/SmartIrrgationApp)** - A smart farm system using sensors and real-time data processing.
+
+## Interests
+- 🚀 IoT and Smart Systems
+- 📊 Data Science and Machine Learning
+- 🤖 Robotics and Automation
+- 🎮 Video games and tech gadgets
+
+Feel free to reach out if you'd like to collaborate or chat about tech, projects, or anything interesting! 😊
