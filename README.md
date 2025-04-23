@@ -1,4 +1,4 @@
-# Hi, I'm Huỳnh Tấn Đạt 👋
+# Hi, I'm Huỳnh Tấn Đạt 👨‍🎓
 
 - 🎓 **Final-year student** at HCMUT (K19)
 - 💡 **Passionate about IoT, Automation, and AI**
